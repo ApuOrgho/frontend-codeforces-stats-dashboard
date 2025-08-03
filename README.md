@@ -61,6 +61,6 @@ Perfect for competitive programmers who want to **track their progress, contest 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/apuorgho/codeforces-stats-dashboard.git
+git clone https://github.com/apuorgho/frontend-codeforces-stats-dashboard.git
 cd codeforces-stats-dashboard
 ```
